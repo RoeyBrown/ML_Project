@@ -1,0 +1,28 @@
+Required Libraries for the Project
+Based on the code, here is the summarized list of libraries required for this project:
+
+Data Manipulation and Numerical Operations:
+pandas
+numpy
+
+Data Visualization:
+matplotlib
+seaborn
+
+Machine Learning Models and Preprocessing:
+scikit-learn:
+train_test_split (Data splitting)
+LabelEncoder, StandardScaler (Preprocessing)
+RandomForestClassifier, GradientBoostingClassifier, SVC, LogisticRegression (Supervised models)
+KMeans, DBSCAN (Clustering algorithms)
+NearestNeighbors (Used for DBSCAN parameter tuning)
+silhouette_score (Clustering evaluation)
+accuracy_score, precision_score, recall_score, f1_score (Evaluation metrics)
+xgboost:
+XGBClassifier (Supervised classification)
+
+Dimensionality Reduction:
+PCA from scikit-learn
+Operating System Interaction:
+
+os (For file handling, if used)
