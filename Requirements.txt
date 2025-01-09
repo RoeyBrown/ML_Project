@@ -1,5 +1,4 @@
 Required Libraries for the Project
-Based on the code, here is the summarized list of libraries required for this project:
 
 Data Manipulation and Numerical Operations:
 pandas
